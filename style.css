@@ -152,7 +152,7 @@ body {
     padding: 1rem;
 }
 
-#contact {
+#contacts {
     background: url('./Stars.jpg');
     color: white;
 }
@@ -172,8 +172,8 @@ body {
     padding-bottom: 1rem;
 }
 
-#contact .contact-form input,
-#contact .contact-form textarea {
+#contacts .contact-form input,
+#contacts .contact-form textarea {
     width: 50%;
     padding: 0.5rem;
 }
